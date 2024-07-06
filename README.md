@@ -1,3 +1,3 @@
 # Non-corresponding-and-Topology-free-3D-Face-Expression-Transfer
-
-The codes, pre-trained model, and used data will be available after the paper is published. 
+This is code of a published paper.
+Paper title: "Non-corresponding and topology-free 3D face expression transfer"
